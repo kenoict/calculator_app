@@ -1,6 +1,5 @@
 # Project: Calculator
 
-This is part of React and Redux section in Microverse's Technical curriculum. Find it [here](https://microverse.pathwright.com/library/fast-track-curriculum/69047/path/step/44896082/).
 The goal of the project is to build a simple calculator with basics of react.
 
 ## Screenshot
@@ -13,9 +12,9 @@ The goal of the project is to build a simple calculator with basics of react.
 - NodeJs
 - SASS
 
-## Live Demo
 
- [Live link](https://denny-calc.herokuapp.com)
+
+
 
 
 ## Prerequisites
@@ -25,12 +24,12 @@ The goal of the project is to build a simple calculator with basics of react.
 
 Use the [git](https://git-scm.com/downloads) to clone the project to your local machine.
 ```sh
-$ git clone https://github.com/OlukaDenis/Calculator.git
+$ git clone https://github.com/kenoict/Calculator1.git
 ```
 
 Navigate to the extracted folder
 ```sh 
-cd Calculator
+cd Calculator1
 ```
 
 Install the dependencies and modules
@@ -46,9 +45,9 @@ This will open the app at port 3000. If it doesn't open, visit ```http://localho
 
 ## Author
 
-👤 **Denis Oluka**
+👤 **mafabi kennedy**
 
-[Github](https://github.com/OlukaDenis) | [Twitter](https://twitter.com/dennylucaz) | [LinkedIn](https://linkedin.com/in/denis-oluka-)
+[Github](https://github.com/kenoict) | [Twitter](https://twitter.com/ken_mafabi) | [LinkedIn](https://linkedin.com/in/mafabi-kennedy-074754116)
 
 
 ## 🤝 Contributing
@@ -56,11 +55,11 @@ This will open the app at port 3000. If it doesn't open, visit ```http://localho
 Contributions, issues and feature requests are welcome!
 
 ## Show your support
+https://www.buymeacoffee.com/kenmafabic
 
 Give a ⭐️ if you like this project!
 
 ## Acknowledgements
-- [Microverse](https://www.microverse.org/)
 - [Freecodecamp](http://freecodecamp.org/)
 
 ## 📝 License
